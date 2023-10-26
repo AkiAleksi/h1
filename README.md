@@ -112,3 +112,4 @@ C ratkaistu.
 
 
 Tehtävien teko sessioni päättyi 25.10.2023 klo 15:30.
+Tehtävien teko jatkuu 26.10.2023 klo 10:43. Tällä kertaa yksin.
