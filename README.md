@@ -167,12 +167,16 @@ Ajoin Kali Linuxissa komennon nmap -p- "oma IP-osoite".
 Nyt minulla näkyy avoimia portteja. Se tarkoittaa, että portit ovat kuuntelevia yhteyksiä. Joku ohjelma, palvelu tai prosessi käyttää niitä. Esimerkiksi minulla näyttäisi olevan MySQL-tietokantapalvelin käytössä. Joissain porteissa näkyy filtered. Kyseinen portti ei vastaa skannausyrityksiin. Se tarkoittaa, että portin tila ei ole avoin eikä suljettu vaan suodatettu. Syynä tälle voisi olla palomuuri tai verkkosuodatus. Joissain porteissa esiintyvä "unknown" taas viittaa siihen, että nmap ei pysty määrittelemään portin tarkkaa sovellusta tai palvelua sen vastauksen perusteella. Avoimet portit voivat olla tietoturvariski, jos ei ole tietoinen avoimista porteista ja niiden palveluiden tietoturva-aukoista.
 
 # g.)
-https://www.codecademy.com/resources/docs/cybersecurity/nmap/aggressive-scan mukaan nmap -A on laaja skannaus. Se tarjoaa paljon tarkempaa tietoa kuin normaali skannaus. OS detection (-O), Version detection (-sV), Script scanning (-sC), Traceroute (--traceroute). 
+https://www.codecademy.com/resources/docs/cybersecurity/nmap/aggressive-scan mukaan nmap -A on laaja skannaus. Se tarjoaa paljon tarkempaa tietoa kuin normaali skannaus. Se suorittaa porttiskannauksen, palvelutunnistuksen, käyttöjärjestelmän tunnistuksen ja suorittaa erilaisia skriptejä. Syötin Kali Linuxin terminaaliin komennon nmap -A "oma IP-osoite".
 
 <img width="362" alt="Nmap -A 1" src="https://github.com/AkiAleksi/h1/assets/112399816/aeeb44dc-d956-48df-80f4-fd58df9cb4bf">
 
 <img width="430" alt="nmap-A 2" src="https://github.com/AkiAleksi/h1/assets/112399816/f43d596f-b1d6-4bf3-93b0-9d8c9242dec8">
 
+
+Näkyvä tieto on nyt paljon laajempaa. 
+
+# h.)
 
 
 
