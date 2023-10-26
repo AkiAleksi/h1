@@ -84,6 +84,8 @@ Päätin suorittaa Challenge.fi ssä yksi tehtävä. Valitsin numeron 172. Teht�
 
 Aukesi kuva eiffel tornista.
 
+<img width="682" alt="Screenshot 2023-10-26 at 10 14 28" src="https://github.com/AkiAleksi/h1/assets/112399816/9938b0fe-8efb-464f-b4e2-8b34cbb05866">
+
 
 Etsin kuvan tiedoista GPS. Siinä löytyi osoite missä kuva on otettu.
 
@@ -95,8 +97,11 @@ Oikea vastaus oli Las Vegas.
 <img width="602" alt="B kohta ratkasiu" src="https://github.com/AkiAleksi/h1/assets/112399816/906cd1cd-de04-4e6a-aba1-e91ccc84b73e">
 
 C.)
-tJ,?xW6@2N8T.5qQ*aL?4(4d496N7X\^
 
-C ratkaise PortSwigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data. Muutetaan urlia rikkomalla tietokantalause urlissa hakemalla ‘OR+1+=1—  . C ratkaistu.
+C ratkaise PortSwigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.
+
+<img width="1582" alt="Lab" src="https://github.com/AkiAleksi/h1/assets/112399816/d54bca98-bffc-4805-bba2-ca4beb013def">
+
+Muutetaan urlia rikkomalla tietokantalause urlissa hakemalla ‘OR+1+=1—  . C ratkaistu.
 
 Lopetus 15:30
