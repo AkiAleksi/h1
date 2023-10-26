@@ -22,6 +22,8 @@ Sen jälkeen annoin salasanan, joka oli annettu tehtäcän annossa.
 
 
 Kirjautuminen sisään onnistui.  
+
+
 <img width="551" alt="Screenshot 2023-10-25 at 13 33 17" src="https://github.com/AkiAleksi/h1/assets/112399816/364ea0d8-9f74-4bfa-ad4e-cd0c516b0338">
 
 Level 1 suoritettu.
