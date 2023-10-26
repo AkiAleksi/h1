@@ -53,7 +53,25 @@ Level 2
 
 The password for the next level is stored in a file called - located in the home directory
 
-Ls komennolla sain vastaukseksi -. Kokeilin avata komennolla cat -. Ei toiminut. Googletin ja piti avata cat < - komennolla. Sain vastaukseksi rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi. Annoin komennon exit. Komento ssh bandit2@bandit.labs.overthewire.org -p 2220. Sen jälkeen annoin salasanan rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi. Kirjauduin sisään onnistuneesti. Ratkaistu level 2.
+Ls komennolla sain vastaukseksi -. Kokeilin avata komennolla cat -. Ei toiminut. Googletin ja piti avata cat < - komennolla. Sain vastaukseksi rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi. 
+
+<img width="360" alt="level 2 kuva 1" src="https://github.com/AkiAleksi/h1/assets/112399816/98793787-3a4b-4af2-8d8d-ffb3edba7de5">
+
+
+
+Annoin komennon exit. Komento ssh bandit2@bandit.labs.overthewire.org -p 2220. Sen jälkeen annoin salasanan rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi. 
+
+<img width="712" alt="level 2 kuva 2" src="https://github.com/AkiAleksi/h1/assets/112399816/29ec60d2-29ce-47f0-841d-08702287b5b8">
+
+
+
+Kirjauduin sisään onnistuneesti. 
+
+<img width="824" alt="level 2 kuva 3" src="https://github.com/AkiAleksi/h1/assets/112399816/b9fcebbe-f193-402a-bcdf-e8f4220028e4">
+
+
+
+Ratkaistu level 2.
 
 Klo 14:23 25.10.2023. a kohta ratkaistu.
 
