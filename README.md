@@ -125,7 +125,11 @@ Latasin ja asensin Virtualboxin koneelleni. Latasin Kali Linux ISO tiedoston sen
 
 <img width="319" alt="Screenshot 2023-10-26 at 11 42 52" src="https://github.com/AkiAleksi/h1/assets/112399816/ac559b7c-caf1-4970-a0df-360986527980">
 
-Sen jälkeen aloitin asennuksen. Tein kuitenkin pienen virheen asennusprosessin raportoinnin kannalta. Autocapturoin hiiren ja näppäimistön, joten en pystynyt ottamaan screenshotteja. Asennus onnistui kuitenkin muuten hyvin. 
+Sen jälkeen aloitin asennuksen. Tein kuitenkin pienen virheen asennusprosessin raportoinnin kannalta. Autocapturoin hiiren ja näppäimistön, joten en pystynyt ottamaan screenshotteja asennusprosessin aikana. Asennus onnistui kuitenkin muuten hyvin. 
+
+
+<img width="1259" alt="Screenshot 2023-10-26 at 13 19 03" src="https://github.com/AkiAleksi/h1/assets/112399816/acd5e945-d436-4cce-9ef7-24d80a068399">
+
 
 <img width="403" alt="Screenshot 2023-10-26 at 13 14 40" src="https://github.com/AkiAleksi/h1/assets/112399816/8154f6f8-c131-4eaf-b676-5682cd8275c9">
 
