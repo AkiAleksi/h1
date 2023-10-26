@@ -149,3 +149,15 @@ Kohta d ratkaistu.
 
 # e.)
 
+Porttiskannaa 1000 tavallisinta tcp-porttia omasta koneestasi (localhost). Analysoi tulokset.
+
+Avasin terminaalin Kali Linuxissa. Ajoin komennon nmap -p 1-1000 "oma ip-osoite". 
+
+
+<img width="331" alt="Screenshot 2023-10-26 at 14 00 53" src="https://github.com/AkiAleksi/h1/assets/112399816/ce778548-054d-429d-aa84-d3fbe649102a">
+
+Sain vastaukseksi. Not shown: 1000 closed tcp ports (conn-refused). TCP porttini olivat siis suojatut. Käytän Macia, joten siinä ne ovat yleensä olleet aika hyvin estetty. 
+
+# f.)
+
+
