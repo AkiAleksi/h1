@@ -131,7 +131,7 @@ Sen jälkeen aloitin asennuksen. Tein kuitenkin pienen virheen asennusprosessin 
 <img width="319" alt="Screenshot 2023-10-26 at 11 42 52" src="https://github.com/AkiAleksi/h1/assets/112399816/ac559b7c-caf1-4970-a0df-360986527980">
 
 
-Asennus onnistui kuitenkin muuten hyvin. 
+Asennus onnistui kuitenkin muuten hyvin. Löysin netistä ohjeet asennukseen screenshotteina. seurasin ohjeita. https://www.kali.org/docs/installation/hard-disk-install/
 
 
 <img width="1259" alt="Screenshot 2023-10-26 at 13 19 03" src="https://github.com/AkiAleksi/h1/assets/112399816/acd5e945-d436-4cce-9ef7-24d80a068399">
