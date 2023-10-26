@@ -98,10 +98,15 @@ Oikea vastaus oli Las Vegas.
 
 C.)
 
-C ratkaise PortSwigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.
+Ratkaise PortSwigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.
+
+Muutetaan urlia rikkomalla tietokantalause urlissa hakemalla ‘OR+1+=1—  .
 
 <img width="1582" alt="Lab" src="https://github.com/AkiAleksi/h1/assets/112399816/d54bca98-bffc-4805-bba2-ca4beb013def">
 
-Muutetaan urlia rikkomalla tietokantalause urlissa hakemalla ‘OR+1+=1—  . C ratkaistu.
+C ratkaistu.
+
+<img width="547" alt="Screenshot 2023-10-25 at 15 22 12" src="https://github.com/AkiAleksi/h1/assets/112399816/cd39c95b-f144-4614-a9d1-24eca43b0060">
+
 
 Lopetus 15:30
