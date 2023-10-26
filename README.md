@@ -7,7 +7,15 @@ Level 0
 
 The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
 
-Anon command prompt commandin 	•	ssh bandit0@bandit.labs.overthewire.org -p 2220 
+Annoin command prompt commandin ssh bandit0@bandit.labs.overthewire.org -p 2220 
+
+
+
+<img width="796" alt="Screenshot 2023-10-25 at 13 41 06" src="https://github.com/AkiAleksi/h1/assets/112399816/35e42af5-adf4-449f-a35b-86d8351da70a">
+
+
+
+
 
 Sen jälkeen annoin salasanan, joka oli annettu tehtäcän annossa.
 
