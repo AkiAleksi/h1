@@ -160,4 +160,7 @@ Sain vastaukseksi. Not shown: 1000 closed tcp ports (conn-refused). Skannaukseni
 
 # f.)
 
-kk
+Ajoin Kali Linuxissa komennon nmap -p- "oma IP-osoite".
+
+<img width="372" alt="TCP kaikki" src="https://github.com/AkiAleksi/h1/assets/112399816/8b1453a6-d239-4e75-8f0a-06f4c14f0614">
+
