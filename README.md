@@ -79,7 +79,7 @@ Klo 14:23 25.10.2023. a kohta ratkaistu.
 
 # B.) 
 
-Päätin suorittaa Challenge.fi ssä yksi tehtävä. Valitsin numeron 172. Tehtävän anto where was this picture taken.
+Päätin suorittaa Challenge.fi ssä yhden tehtävän. Valitsin numeron 172. Tehtävän anto oli "where was this picture taken".
 
 <img width="652" alt="b kohta" src="https://github.com/AkiAleksi/h1/assets/112399816/3dfcf55d-02b0-4726-b9cd-baaaedf46f44">
 
@@ -111,4 +111,4 @@ C ratkaistu.
 <img width="547" alt="Screenshot 2023-10-25 at 15 22 12" src="https://github.com/AkiAleksi/h1/assets/112399816/cd39c95b-f144-4614-a9d1-24eca43b0060">
 
 
-Lopetus 15:30
+Tehtävien teko sessioni päättyi 25.10.2023 klo 15:30.
