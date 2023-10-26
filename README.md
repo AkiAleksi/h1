@@ -115,9 +115,25 @@ Tehtävien teko sessioni päättyi 25.10.2023 klo 15:30.
 Tehtävien teko jatkuu 26.10.2023 klo 10:43. Tällä kertaa yksin.
 # d.)
 Asenna Linux virtuaalikoneeseen. Suosittelen joko Kali (viimeisin versio) tai Debian 12-Bookworm.
-Asensin Virtualboxin koneelleni. Sen jälkeen latasin kalin virallisilta sivuilta kalin viimeisimmän version. Käynnistin Virtualboxin ja klikkasin asennus kansiosta kalia. Linux käynnistyi onnistuneesti virtuaalikoneessa.
 
-<img width="1475" alt="Screenshot 2023-10-26 at 11 03 18" src="https://github.com/AkiAleksi/h1/assets/112399816/8641c81d-122d-4645-9a15-caac1ea8243d">
+Latasin ja asensin Virtualboxin koneelleni. Latasin Kali Linux ISO tiedoston sen virallisilta nettisivuilta. Loin uuden virtuaalikoneen. Valitsin käyttöjärjestelmäksi Linux.  Sen jälkeen, kun virtuaalikone oli luotu menin virtuaalikoneen asetuksiin. Storage-välilehdeltä lisäsin Kali Linuxin ISO-tiedoston optinen asema kohdassa. Tallensin asetukset. Sen jälkeen käynnistin virtuaalikoneen.
+
+
+
+<img width="850" alt="Screenshot 2023-10-26 at 11 42 43" src="https://github.com/AkiAleksi/h1/assets/112399816/1de66dfb-aa69-4ed9-acc6-24d077946fcf">
+
+
+<img width="319" alt="Screenshot 2023-10-26 at 11 42 52" src="https://github.com/AkiAleksi/h1/assets/112399816/ac559b7c-caf1-4970-a0df-360986527980">
+
+Sen jälkeen aloitin asennuksen. Tein kuitenkin pienen virheen asennusprosessin raportoinnin kannalta. Autocapturoin hiiren ja näppäimistön, joten en pystynyt ottamaan screenshotteja. Asennus onnistui kuitenkin muuten hyvin. 
+
+<img width="403" alt="Screenshot 2023-10-26 at 13 14 40" src="https://github.com/AkiAleksi/h1/assets/112399816/8154f6f8-c131-4eaf-b676-5682cd8275c9">
+
+Kokeilin kirjautua sisään ja se onnistui.
+
+
+<img width="405" alt="Screenshot 2023-10-26 at 13 02 32" src="https://github.com/AkiAleksi/h1/assets/112399816/4c632d63-42a9-47ff-a9b6-3a9fb6dc3d99">
+
 
 Kohta d ratkaistu.
 
