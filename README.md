@@ -77,7 +77,22 @@ Klo 14:23 25.10.2023. a kohta ratkaistu.
 
 B.) Kohta
 
-Päätin suorittaa Challenge.fi ssä yksi tehtävä. Valitsin numeron 172. Tehtävän anto where was this picture taken. Aukesi kuva eiffel tornista. Etsin kuvan tiedoista GPS. Siinä löytyi osoite missä kuva on otettu. Oikea vastaus oli Las Vegas. 
+Päätin suorittaa Challenge.fi ssä yksi tehtävä. Valitsin numeron 172. Tehtävän anto where was this picture taken.
+
+<img width="652" alt="b kohta" src="https://github.com/AkiAleksi/h1/assets/112399816/3dfcf55d-02b0-4726-b9cd-baaaedf46f44">
+
+
+Aukesi kuva eiffel tornista.
+
+
+Etsin kuvan tiedoista GPS. Siinä löytyi osoite missä kuva on otettu.
+
+<img width="339" alt="Screenshot 2023-10-25 at 14 54 43" src="https://github.com/AkiAleksi/h1/assets/112399816/eebfe26d-14b7-433b-ac18-c0ca2fc6d821">
+
+
+Oikea vastaus oli Las Vegas. 
+
+<img width="602" alt="B kohta ratkasiu" src="https://github.com/AkiAleksi/h1/assets/112399816/906cd1cd-de04-4e6a-aba1-e91ccc84b73e">
 
 C.)
 tJ,?xW6@2N8T.5qQ*aL?4(4d496N7X\^
