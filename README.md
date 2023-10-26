@@ -178,6 +178,30 @@ Näkyvä tieto on nyt paljon laajempaa.
 
 # h.)
 
+Minulla oli ollut tehtävän tekemisen aikana johtuen toisesta tehtävästä MySQL-palvelin. Sammutin sen. 
+
+<img width="512" alt="sammuta" src="https://github.com/AkiAleksi/h1/assets/112399816/e111b765-cedf-4c09-9885-953e141cb101">
+
+Sen jälkeen ajoin komennon nmap -p- "Oma IP-osoite".
+
+
+<img width="366" alt="mysqlpois" src="https://github.com/AkiAleksi/h1/assets/112399816/3e6c67db-c264-420f-84aa-42f0f5deeba6">
+
+Vastauksessa ei näkynyt mysql palvelinta. Sen jälkeen käynnistin MySQL-palvelimen. 
+
+
+<img width="492" alt="startmysgl" src="https://github.com/AkiAleksi/h1/assets/112399816/85a5b7a3-ea6b-413a-8af1-11477a2e1e72">
+
+Sen jälkeen ajoin komennon nmap -p- "Oma IP-osoite".
+
+
+<img width="504" alt="mysqlpäällä" src="https://github.com/AkiAleksi/h1/assets/112399816/5be086cb-fd91-4495-9033-84cf72180e44">
+
+MySQL-palvelimen TCP portti 3306 näkyy porttiskannauksessa. 
+
+# i.)
+
+
 
 
 
