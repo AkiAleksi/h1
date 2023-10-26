@@ -113,3 +113,13 @@ C ratkaistu.
 
 Tehtävien teko sessioni päättyi 25.10.2023 klo 15:30.
 Tehtävien teko jatkuu 26.10.2023 klo 10:43. Tällä kertaa yksin.
+# d.)
+Asenna Linux virtuaalikoneeseen. Suosittelen joko Kali (viimeisin versio) tai Debian 12-Bookworm.
+Asensin Virtualboxin koneelleni. Sen jälkeen latasin kalin virallisilta sivuilta kalin viimeisimmän version. Käynnistin Virtualboxin ja klikkasin asennus kansiosta kalia. Linux käynnistyi onnistuneesti virtuaalikoneessa.
+
+<img width="1475" alt="Screenshot 2023-10-26 at 11 03 18" src="https://github.com/AkiAleksi/h1/assets/112399816/8641c81d-122d-4645-9a15-caac1ea8243d">
+
+Kohta d ratkaistu.
+
+# e.)
+
