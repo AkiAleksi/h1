@@ -18,9 +18,13 @@ Annoin command prompt commandin ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 
 Sen jälkeen annoin salasanan, joka oli annettu tehtäcän annossa.
+<img width="603" alt="Screenshot 2023-10-25 at 13 41 15" src="https://github.com/AkiAleksi/h1/assets/112399816/731730d4-49a5-4a78-a19c-61a1d840ced7">
+
 
 Kirjautuminen sisään onnistui.  
-Level 1
+<img width="551" alt="Screenshot 2023-10-25 at 13 33 17" src="https://github.com/AkiAleksi/h1/assets/112399816/364ea0d8-9f74-4bfa-ad4e-cd0c516b0338">
+
+Level 1 suoritettu.
 
 The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
