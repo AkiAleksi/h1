@@ -199,6 +199,8 @@ Sen jälkeen ajoin komennon nmap -p- "Oma IP-osoite".
 
 MySQL-palvelimen TCP portti 3306 näkyy porttiskannauksessa. 
 
+Tehtävien teko sessioni päättyi 26.10.2023 klo 16:03.
+
 # i.)
 
 
