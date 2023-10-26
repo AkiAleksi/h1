@@ -160,4 +160,4 @@ Sain vastaukseksi. Not shown: 1000 closed tcp ports (conn-refused). Skannaukseni
 
 # f.)
 
-
+kk
