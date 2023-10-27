@@ -1,21 +1,20 @@
 # h1
 
-Tehtävän tekeminen alkaa alkaa 25.10.2023 klo 13:30.  Tein tehtäviä yhdessä kurssitoverini Alisa Ahokkaan kanssa. ALoitin tehtävien teon a kohdasta jätin x myöhemmäksi.
+Tehtävän tekeminen alkaa alkaa 25.10.2023 klo 13:30.  Tein tehtäviä yhdessä kurssitoverini Alisa Ahokkaan kanssa. ALoitin tehtävien teon a kohdasta jätin x myöhemmäksi. X kohta eli tiivistelmä löytyy ihan läksyn lopusta. 
 
 # a.)
 
 # Level 0
+Tehtävän anto
 
 The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
+
+Suoritus
 
 Annoin command prompt commandin ssh bandit0@bandit.labs.overthewire.org -p 2220 
 
 
-
 <img width="796" alt="Screenshot 2023-10-25 at 13 41 06" src="https://github.com/AkiAleksi/h1/assets/112399816/35e42af5-adf4-449f-a35b-86d8351da70a">
-
-
-
 
 
 Sen jälkeen annoin salasanan, joka oli annettu tehtäcän annossa eli bandit0.
@@ -32,12 +31,16 @@ Kirjautuminen sisään onnistui.  
 Level 0 suoritettu.
 
 # level 1
+
+Tehtävänanto
+
 The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+
+Suoritus
 
 Syötin ls komennon. Sen jälkeen cat readme. Sain vastaukseksi NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL.  Kokeilin syöttää salasanan ei toiminut.
 
 <img width="762" alt="permission denied lvl1" src="https://github.com/AkiAleksi/h1/assets/112399816/a4ec0299-3187-4c0b-b4ab-06e66c7fdf96">
-
 
 
 
@@ -52,8 +55,11 @@ Annoin komennon exit. Sen jälkeen annoin komennon. ssh bandit1@bandit.labs.over
 Level 1 suoritettu.
 
 # Level 2
+Tehtävänanto
 
 The password for the next level is stored in a file called - located in the home directory
+
+Suoritus
 
 Ls komennolla sain vastaukseksi -. Kokeilin avata komennolla cat -. Ei toiminut. Googletin ja piti avata cat < - komennolla. Sain vastaukseksi rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi. 
 
@@ -75,11 +81,11 @@ Kirjauduin sisään onnistuneesti.
 
 Ratkaistu level 2.
 
-Klo 14:23 25.10.2023. a kohta ratkaistu.
+a kohta ratkaistu.
 
 # B.) 
 
-Päätin suorittaa Challenge.fi ssä yhden tehtävän. Valitsin numeron 172. Tehtävän anto oli "where was this picture taken".
+Päätin suorittaa Challenge.fi ssä yhden tehtävän. Valitsin numeron 172. Tehtävän anto oli: "where was this picture taken".
 
 <img width="652" alt="b kohta" src="https://github.com/AkiAleksi/h1/assets/112399816/3dfcf55d-02b0-4726-b9cd-baaaedf46f44">
 
@@ -98,9 +104,14 @@ Oikea vastaus oli Las Vegas.
 
 <img width="602" alt="B kohta ratkasiu" src="https://github.com/AkiAleksi/h1/assets/112399816/906cd1cd-de04-4e6a-aba1-e91ccc84b73e">
 
+B kohta suoritettu.
+
 # C.)
+Tehtävän anto
 
 Ratkaise PortSwigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.
+
+Suoritus
 
 Muutetaan urlia rikkomalla tietokantalause urlissa hakemalla ‘OR+1+=1—  .
 
@@ -207,6 +218,33 @@ Bellingcat on itsenäisten tutkijoiden, etsivien ja kansalaisjournalistien yhtei
 menetelmiä käyttäen yleistä kiinnostusta herättäviä aiheita. Kuten vaikka poliisi väkivaltaa Kolumbiassa. He myös julkaisevat ohjeita avoimen lähdekoodin tutkimusmenetelmistä. Sivustolla on julkaistu artikkeleita,
 jossa on tutkittu avointa lähdekoodia. Sivustolta löytyy esimerkiksi Charlotte Maherin artikkeli: "Separating Fact from Fiction on Social Media in Times of Conflict"(26.10.2023.), jossa on avoimen 
 lähdekoodin esimerkkien avulla osoitettu miten konfliktien aikana voi erottaa sosiaalisessa mediassa levitettävän disinformaation faktoista. 
+
+# X.)
+
+Tehtävänannossa annettu video oli maksullinen. En saanut sitä toimimaan ilmaiseksi, joten tein tiivistelmän tekstistä Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, chapters Abstract, 3.2 Intrusion Kill Chain. 
+
+Tiivistelmä 
+
+-Niin kauan kun tietoverkkoja on ollut olemassa, on ollut myös pahantahtoisia henkilöitä jotka tahtovat hyväksikäyttää heikkouksia. 
+
+-APT (“Advanced Persistent Threat”) on pitkäaikainen ja edistynyt tietoturvauhka. Se pyrkii huomaamattomasti tunkeutumaan
+tietoverkkoihin pitkäkestoisesti varastaakseen arkaluonteista tietoa. 
+
+-Kill chain tietoturvassa tarkoittaa hyökkääjän systemaattista vaiheittaista prosessia. Siinä hyödynnetään haavoittuvuuksia, toimitaan sisäverkossa ja ylläpidetään pääsyä, jotta päämäärä saavutetaan, ja sitä käytetään puolustustekniikoiden kehittämisessä hyökkäysten havaitsemiseksi ja estämiseksi.
+
+-Useissa eri konteksteissa, kuten puolustuksen ja vastatoimien suunnittelussa sekä tietoturvassa, käytetään vaihepohjaisia malleja, kuten kill chain -mallia, hyökkäysten analysoimiseen ja vastatoimien kehittämiseen.
+
+-Intelligence-driven computer network defense on riskienhallintastrategia, joka käsittelee uhkaa riskissä
+ja sisältää analyysin hyökkääjistä. Heidän kyvyistään, tavoitteistaan, opeistaan ja rajoituksistaan. Se on jatkuva prosessi.
+
+-Paperissa esitellään kill chain tunkeutumista varten. Intruusioiden kill chain tarjoaa rakenteen hyökkäysten analysointiin, indikaattoreiden tunnistamiseen ja puolustustoimien ohjaamiseen. 
+
+-Intelligence-driven computer network defense on välltämätöntä APT uhkien valossa. 
+
+# Lähteet
+
+
+
 
 
 
