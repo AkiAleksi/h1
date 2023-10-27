@@ -61,7 +61,8 @@ The password for the next level is stored in a file called - located in the ho
 
 Suoritus:
 
-Ls komennolla sain vastaukseksi -. Kokeilin avata komennolla cat -. Ei toiminut. Googletin ja piti avata cat < - komennolla. Sain vastaukseksi rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi. 
+Ls komennolla sain vastaukseksi -. Kokeilin avata komennolla cat -. Ei toiminut. Googletin tiedon sivulta https://stackoverflow.com/questions/42187323/how-to-open-a-dashed-filename-using-terminal.
+Piti siis avata cat < - komennolla. Sain vastaukseksi rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi. 
 
 <img width="360" alt="level 2 kuva 1" src="https://github.com/AkiAleksi/h1/assets/112399816/98793787-3a4b-4af2-8d8d-ffb3edba7de5">
 
@@ -301,4 +302,6 @@ https://subscription.packtpub.com/book/security/9781783289592/4/ch04lvl1sec33/fi
 https://www.codecademy.com/resources/docs/cybersecurity/nmap/aggressive-scan
 
 https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/
+
+https://stackoverflow.com/questions/42187323/how-to-open-a-dashed-filename-using-terminal
 
