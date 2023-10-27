@@ -199,11 +199,14 @@ Sen jälkeen ajoin komennon nmap -p- "Oma IP-osoite".
 
 MySQL-palvelimen TCP portti 3306 näkyy porttiskannauksessa. 
 
-Tehtävien teko sessioni päättyi 26.10.2023 klo 16:03.
+Tehtävien teko sessioni päättyi 26.10.2023 klo 16:03. Tehtävien teko jatkuu 27.10.2023 klo 11:30.
 
 # i.)
 
-
+Bellingcat on itsenäisten tutkijoiden, etsivien ja kansalaisjournalistien yhteisö, joka tutkii avointa lähdekoodia.  Se on perustettu vuonna 2014. He ovat tutkineet avoimen lähdekoodin 
+menetelmiä käyttäen yleistä kiinnostusta herättäviä aiheita. Kuten vaikka poliisi väkivaltaa Kolumbiassa. He myös julkaisevat ohjeita avoimen lähdekoodin tutkimusmenetelmistä. Sivustolla on julkaistu artikkeleita,
+jossa on tutkittu avointa lähdekoodia. Sivustolta löytyy esimerkiksi Charlotte Maherin artikkeli: "Separating Fact from Fiction on Social Media in Times of Conflict"(26.10.2023.), jossa on avoimen 
+lähdekoodin esimerkkien avulla osoitettu miten konfliktien aikana voi erottaa sosiaalisessa mediassa levitettävän disinformaation faktoista. 
 
 
 
