@@ -271,19 +271,20 @@ Tehtävänannossa annettu video oli maksullinen. En saanut sitä toimimaan ilmai
 
 Tiivistelmä:
 
--Niin kauan kun tietoverkkoja on ollut olemassa, on ollut myös pahantahtoisia henkilöitä jotka tahtovat hyväksikäyttää heikkouksia. 
+-Niin kauan kun tietoverkkoja on ollut olemassa. On ollut myös pahantahtoisia henkilöitä, jotka tahtovat hyväksikäyttää heikkouksia. 
 
--APT (“Advanced Persistent Threat”) on pitkäaikainen ja edistynyt tietoturvauhka. Se pyrkii huomaamattomasti tunkeutumaan
-tietoverkkoihin pitkäkestoisesti varastaakseen arkaluonteista tietoa. 
+-APT (Advanced Persistent Threat) on pitkäaikainen ja edistynyt tietoturvauhka. Se pyrkii huomaamattomasti tunkeutumaan pitkäkestoisesti
+tietoverkkoihin varastaakseen arkaluonteista tietoa. 
 
--Kill chain tietoturvassa tarkoittaa hyökkääjän systemaattista vaiheittaista prosessia. Siinä hyödynnetään haavoittuvuuksia, toimitaan sisäverkossa ja ylläpidetään pääsyä, jotta päämäärä saavutetaan, ja sitä käytetään puolustustekniikoiden kehittämisessä hyökkäysten havaitsemiseksi ja estämiseksi.
+-Kill chain tarkoittaa tietoturvassa hyökkääjän systemaattista vaiheittaista prosessia. Siinä hyödynnetään haavoittuvuuksia, toimitaan sisäverkossa ja ylläpidetään pääsyä, jotta päämäärä saavutetaan, ja sitä käytetään puolustustekniikoiden kehittämisessä hyökkäysten havaitsemiseksi ja estämiseksi.
 
--Useissa eri konteksteissa, kuten puolustuksen ja vastatoimien suunnittelussa sekä tietoturvassa, käytetään vaihepohjaisia malleja, kuten kill chain -mallia, hyökkäysten analysoimiseen ja vastatoimien kehittämiseen.
+-Monissa eri yhteyksissä. Esimerkiksi puolustuksen ja vastatoimien suunnittelussa sekä tietoturvassa, käytetään vaihepohjaisia malleja, kuten kill chain -mallia. Sitä käytetään hyökkäysten 
+analysoimiseen ja vastatoimien kehittämiseen.
 
--Intelligence-driven computer network defense on riskienhallintastrategia, joka käsittelee uhkaa riskissä
-ja sisältää analyysin hyökkääjistä. Heidän kyvyistään, tavoitteistaan, opeistaan ja rajoituksistaan. Se on jatkuva prosessi.
+-Intelligence-driven computer network defense on riskienhallintastrategia. Se käsittelee uhkaa riskissä
+ja sisältää analyysin hyökkääjistä. Heidän kyvyistään, tavoitteistaan, opeistaan sekä rajoituksistaan. Se on jatkuva prosessi.
 
--Paperissa esitellään kill chain tunkeutumista varten. Intruusioiden kill chain tarjoaa rakenteen hyökkäysten analysointiin, indikaattoreiden tunnistamiseen ja puolustustoimien ohjaamiseen. 
+-Paperissa esitellään kill chain tunkeutumista varten. Tunkeutumis kill chain antaa rakenteen hyökkäysten analysointiin, indikaattoreiden tunnistamiseen sekä puolustustoimien ohjaamiseen. 
 
 -Intelligence-driven computer network defense on välltämätöntä APT uhkien valossa. 
 
