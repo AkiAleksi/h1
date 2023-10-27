@@ -276,7 +276,7 @@ Tiivistelmä:
 -APT (Advanced Persistent Threat) on pitkäaikainen ja edistynyt tietoturvauhka. Se pyrkii huomaamattomasti tunkeutumaan pitkäkestoisesti
 tietoverkkoihin varastaakseen arkaluonteista tietoa. 
 
--Kill chain tarkoittaa tietoturvassa hyökkääjän systemaattista vaiheittaista prosessia. Siinä hyödynnetään haavoittuvuuksia, toimitaan sisäverkossa ja ylläpidetään pääsyä, jotta päämäärä saavutetaan, ja sitä käytetään puolustustekniikoiden kehittämisessä hyökkäysten havaitsemiseksi ja estämiseksi.
+-Kill chain tarkoittaa tietoturvassa hyökkääjän systemaattista vaiheittaista prosessia. Siinä hyödynnetään haavoittuvuuksia, toimitaan sisäverkossa ja ylläpidetään pääsyä, jotta päämäärä saavutetaan. Sitä käytetään puolustustekniikoiden kehittämisessä hyökkäysten havaitsemiseksi ja estämiseksi.
 
 -Monissa eri yhteyksissä. Esimerkiksi puolustuksen ja vastatoimien suunnittelussa sekä tietoturvassa, käytetään vaihepohjaisia malleja, kuten kill chain -mallia. Sitä käytetään hyökkäysten 
 analysoimiseen ja vastatoimien kehittämiseen.
@@ -287,6 +287,8 @@ ja sisältää analyysin hyökkääjistä. Heidän kyvyistään, tavoitteistaan,
 -Paperissa esitellään kill chain tunkeutumista varten. Tunkeutumis kill chain antaa rakenteen hyökkäysten analysointiin, indikaattoreiden tunnistamiseen sekä puolustustoimien ohjaamiseen. 
 
 -Intelligence-driven computer network defense on välltämätöntä APT uhkien valossa. 
+
+Sain tehtävät tehtyä 27.10.2023 klo 16:14.
 
 # Lähteet
 
