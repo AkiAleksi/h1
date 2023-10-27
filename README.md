@@ -221,7 +221,7 @@ Tehtävänanto:
 
 Asenna ja käynnistä jokin palvelin (apache, ssh...) koneellesi. Vertaile, miten porttiskannauksen tulos eroaa.
 
-Suoritettu:
+Suoritus:
 
 Minulla oli ollut tehtävän tekemisen aikana johtuen toisesta tehtävästä MySQL-palvelin päällä. 
 Se siis näkyi aikaiseemin porttiskannauksessa. Sammutin sen. 
@@ -254,7 +254,7 @@ Tehtävänanto:
 
 Kokeile ja esittele jokin avointen lähteiden tiedusteluun sopiva weppisivu tai työkalu. Hyviä esimerkkejä löytyy Bazzel: IntelTechniques: Tools ja Bellingcat: Resources, voit myös käyttää muuta itse valitsemaasi työkalua. Työkalua pitää siis myös kokeilla, pelkkä nimen mainitseminen ei riitä. Pidä esimerkit harmittomina, älä julkaise kenenkään henkilökohtaisia salaisuuksia raportissasi.
 
-Suoritettu:
+Suoritus:
 
 Bellingcat on itsenäisten tutkijoiden, etsivien ja kansalaisjournalistien yhteisö, joka tutkii avointa lähdekoodia.  Se on perustettu vuonna 2014. He ovat tutkineet avoimen lähdekoodin 
 menetelmiä käyttäen yleistä kiinnostusta herättäviä aiheita. Kuten vaikka poliisi väkivaltaa Kolumbiassa. He myös julkaisevat ohjeita avoimen lähdekoodin tutkimusmenetelmistä. Sivustolla on julkaistu artikkeleita,
